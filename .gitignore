@@ -1,0 +1,26 @@
+# === WinDev Folders ===
+Backup/
+Exe/
+History/
+Templates/
+*.cpl
+
+# === Logs ===
+*.log
+
+# === WinDev Project Binary Files ===
+*.env
+*.sty
+*.waudit
+*.wdp
+*.wdy
+*.WPF
+*.wws
+
+# === System Files ===
+.DS_Store
+Thumbs.db
+*.tmp
+
+# === WinDev WebDev Folder (if any) ===
+RESERVATION_DE_SALLES_WEB/
