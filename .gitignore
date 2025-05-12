@@ -9,13 +9,6 @@ Templates/
 *.log
 
 # === WinDev Project Binary Files ===
-*.env
-*.sty
-*.waudit
-*.wdp
-*.wdy
-*.WPF
-*.wws
 
 # === System Files ===
 .DS_Store
