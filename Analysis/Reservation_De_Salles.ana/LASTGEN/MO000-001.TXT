@@ -1,0 +1,34 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Département		NFI		nouveau fichier de données
+Filiére		NFI		nouveau fichier de données
+historique_réservation		NFI		nouveau fichier de données
+Consulter		NFI		nouveau fichier de données
+Etablissement		NFI		nouveau fichier de données
+Filiére_Semestre		NFI		nouveau fichier de données
+Calendrier_dynamique		NFI		nouveau fichier de données
+Salle		NFI		nouveau fichier de données
+Utilisateur		NFI		nouveau fichier de données
+Rapport		NFI		nouveau fichier de données
+Semestre		NFI		nouveau fichier de données
+Réservation		NFI		nouveau fichier de données
+Equipement		NFI		nouveau fichier de données
+Parcourir		NFI		nouveau fichier de données
+Notification		NFI		nouveau fichier de données
+Module		NFI		nouveau fichier de données
+Contrainte_Département_Filiére		NWL	Département (ID_département) et Filiére (ID_département)	Nouvelle liaison entre les fichiers de données Département (ID_département) et Filiére (ID_département)
+Contrainte_Département_Etablissement		NWL	Etablissement (ID_etablissement) et Département (ID_etablissement)	Nouvelle liaison entre les fichiers de données Etablissement (ID_etablissement) et Département (ID_etablissement)
+Contrainte_Filiére_Semestre		NWL	Filiére (Id_filiére) et Filiére_Semestre (Id_filiére)	Nouvelle liaison entre les fichiers de données Filiére (Id_filiére) et Filiére_Semestre (Id_filiére)
+Contrainte_historique_réservation_Utilisateur		NWL	historique_réservation (IDhistorique_réservation) et Consulter (IDhistorique_réservation)	Nouvelle liaison entre les fichiers de données historique_réservation (IDhistorique_réservation) et Consulter (IDhistorique_réservation)
+Contrainte_Salle_Calendrier_dynamique		NWL	Salle (IDSalle) et Calendrier_dynamique (IDSalle)	Nouvelle liaison entre les fichiers de données Salle (IDSalle) et Calendrier_dynamique (IDSalle)
+Contrainte_Département_Salle		NWL	Département (ID_département) et Salle (ID_département)	Nouvelle liaison entre les fichiers de données Département (ID_département) et Salle (ID_département)
+Contrainte_Utilisateur_historique_réservation		NWL	Utilisateur (IDUtilisateur) et Consulter (IDUtilisateur)	Nouvelle liaison entre les fichiers de données Utilisateur (IDUtilisateur) et Consulter (IDUtilisateur)
+Contrainte_Utilisateur_Etablissement		NWL	Etablissement (ID_etablissement) et Utilisateur (ID_etablissement)	Nouvelle liaison entre les fichiers de données Etablissement (ID_etablissement) et Utilisateur (ID_etablissement)
+Contrainte_Semestre_Filiére		NWL	Semestre (Id_semestre) et Filiére_Semestre (Id_semestre)	Nouvelle liaison entre les fichiers de données Semestre (Id_semestre) et Filiére_Semestre (Id_semestre)
+Contrainte_Utilisateur_Salle		NWL	Utilisateur (IDUtilisateur) et Réservation (IDUtilisateur)	Nouvelle liaison entre les fichiers de données Utilisateur (IDUtilisateur) et Réservation (IDUtilisateur)
+Contrainte_Salle_Utilisateur		NWL	Salle (IDSalle) et Réservation (IDSalle)	Nouvelle liaison entre les fichiers de données Salle (IDSalle) et Réservation (IDSalle)
+Contrainte_Salle_Equipement		NWL	Salle (IDSalle) et Equipement (IDSalle)	Nouvelle liaison entre les fichiers de données Salle (IDSalle) et Equipement (IDSalle)
+Contrainte_Utilisateur_Rapport		NWL	Utilisateur (IDUtilisateur) et Rapport (IDUtilisateur)	Nouvelle liaison entre les fichiers de données Utilisateur (IDUtilisateur) et Rapport (IDUtilisateur)
+Contrainte_Utilisateur_Calendrier_dynamique		NWL	Utilisateur (IDUtilisateur) et Parcourir (IDUtilisateur)	Nouvelle liaison entre les fichiers de données Utilisateur (IDUtilisateur) et Parcourir (IDUtilisateur)
+Contrainte_Calendrier_dynamique_Utilisateur		NWL	Calendrier_dynamique (IDCalendrier_dynamique) et Parcourir (IDCalendrier_dynamique)	Nouvelle liaison entre les fichiers de données Calendrier_dynamique (IDCalendrier_dynamique) et Parcourir (IDCalendrier_dynamique)
+Contrainte_Utilisateur_Notification		NWL	Utilisateur (IDUtilisateur) et Notification (IDUtilisateur)	Nouvelle liaison entre les fichiers de données Utilisateur (IDUtilisateur) et Notification (IDUtilisateur)
+Contrainte_Semestre_Module		NWL	Semestre (Id_semestre) et Module (Id_semestre)	Nouvelle liaison entre les fichiers de données Semestre (Id_semestre) et Module (Id_semestre)
