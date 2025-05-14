@@ -1,0 +1,179 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : IW_TeamScheduler
+ major_version : 30
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : IW_TeamScheduler
+ identifier : 0x24634441d4d11c76
+ internal_properties : HgAAAB4AAAAufU3to5SHHv+glB89Vf3maQDfSxHZUZdZ9utvt0Khoxo9YwhvN0Ir9ji3O84mV8bWt//NdNjAkld4ikvg5i+ZyVwPe9osjzB94hJVE6Me8Mr2mx/8vWQOsEeNM5vwOoxyhIZYePc4g9BNOkIh5XVCMLzq2A7OEv2WD8qk9ZUG3HKMVQuz8G2CYp//OXCzDYY+hJG3uWQGFdNBJZ7j2fa1UCqk0/uyYJyQvWK/iH6xFRAi+tSH7zxaHHbjtLhrkpEyw+P5IpwMycU00Xgbfyxh4GzOxQgGMnBkMJ9F28POUojySfTmSqOVeaFuUzVUSWjtS81sGpqo9bs8LZVLOmfhDekTpuPAPeCwK3k+ZOE+XlOhkDeXY8wNIBNpdoYXc55cn8/6tfkU0X4mzdjRaiCxpQNsa6IlQtINNE8PbHgravimnAICfpJeEZtDY9tZca4SORWTJCqN6586kSsBF2J/P3gbwom60b7Vr/UlWlwJyFyL7R/uwzBLX9SJp+im1joZ3LrRTBZeTb2IVDqhB/y20k/jSzuHYpigDnaJiVd+WE64EO5Ok3G5pQzXgXXc/ZklFw1z5+SSem/yrcC0S2TfDAmYRc/a/nMuhXwHcIys87J7rSREquBrQjYnFp6r1cG6h8ap7MB1ehlv2qa1VDmItIF6vQm1DaxDZB0S0wz+9UFLBtjvm4/kxsWQdcHNN5J13tdOybHBiET8Js/Xy0KUGdrfNG2NPPe3q8y77w5n8pNLmbCiNXE0Oda/cpLBEcteiOKmIdzbvlLqfAUipyWI6/HwbXBBw8X9Si4oNXA7vUWArkrVE9LgFJGT5sVAhtIocrvynidNiw2ZTkNPIm+AAr3k9MguI3d4u8GbcRpmBuosCCwAj7C7pWNZa7jjQJmeOzwqCbGRa07SB6V1u1DbjbySNbLVRvx+t8PP8I/UivgqO6ZCd7cV3+S1TlSRjqmXtIRu1DzvDqw8Gc3J84zTPSkyrH7LZHOihlEcNYNIPJmENlv3X1+9HopQfBQdW2p/RN2qvegV3MAss/nguDE9odca+emaWhhgEAAQOHG2tRoXsB6i0JINq4Waxnlhc8VUpaCnmJyji5FStlu4tVNn2IxvXUxLzSbkCbHjoVgiDM0ky/WV7AH4vT3CPgTtqu1b3UhGkAc09SdG1N3UoZq3b61CzlZc0uUaXTon4RKBu96OIkC50BqP/ixrMGgQb9sK
+ properties :
+  width : 233
+  height : 86
+ controls :
+  -
+    name : IW_TeamScheduler
+    identifier : 0x24634441d4d21c76
+    internal_properties : HgAAAB4AAADU9RpX0+HFa567N41659RB4tqfzlnX6V2USvT/dt7QnPRS1Ej+kyXKSbGSwLFMRZXVaiDsAPNkQ1M1HOCpAIoxQY/5b6AtCMmrl7V7TMoWGK6gkfgDNqGlDHZKbz2+61KDj+g/8MJmCq/oleVYJZLCfrhOSDhdHAj2LIeB/kPxw77DsYp5NU8SX+OZCJYy4c/ZoNPJLA8AhbBKG8/vpGb5M7+f8d14fK0ZV4ja0zG5XvDmK6YoQMj8+iA8TvbpehEcc7P90CvRlnYFlFbmz/8rIZwJz6h4Nt89Pe4VwiLyrDlbGzXLjl7lGbJQowgJ0V2wsAtWDJS8nfHjfSFgh6/mgWlrpYs8hS/MzZ4NuE09hjilBbkFiy87jZAmeGGkba2BiFBcTCuGbakQ4Xg+lHj7O/iBTEWev30J7G6bSjIT4WnAu7SOn5QTv51QzgGkpIavP1RwJHAilbka2q4gpgzIhJ9oQDqXJBcBQKU5+F2Pwvvdx80AuQTHKWypOce5avFMkCIOxywYhqTc79TozMnBJjKmn73P6NJtDN17B8LR9qOGpg4pN262mAxSIZtUk+6R3ZoIu0iZp3jH9UeGK/1UVegnUBIzALZZfhLMKTYFKbZR4+RX3CnQQjeVSOhfMAKW6ap/XyipdRRZsgB85sdASCDD4NoD1uPE0TSsOO5orcPIDPWGffTBZ4ZAXLgBR+6IwZAyZBW9dQJd3ZIrOLsk3qBqlN6bY0oFxbooFEmeN3gmywQ6wBtuQax8fr7CF22CE0EMz2vOHaMWQGFi9QWn0CmjAQ05cInEcT24pqEgcfW/veBNEb9P38F6BrR6KBLe2uAQOGT32soHZhaAsr0/uIn9TIuT6FLEVs2X7+FWafsSYHmR6oZYhbYmBPIp3mTIEXPQOirY4tRwn08bdKqiiDDG9bAtKwG+vOQ1YLjUVpSpE3+sLqfUwx1CeHyU9WgUanLCkyV6hJGV8ZGB98hWxSx37mi6lxGE0PxGR2A=
+    properties :
+     width : 233
+     height : 86
+    controls :
+     -
+       name : IMG_Mask
+       identifier : 0x24634441d4d31c76
+       internal_properties : HgAAAB4AAABa6xOYfBp8I9UhOVt3I+nx0IVCFFUgBrO+hJErHIeGOFIFDEtkVDWiL2LpYdNiWH2RusuLMn0xRPFTJlg5wfGCENkafdZczbRRQTViCapOClhOuJtbBde6GesvQUnMblSaEM2kUM8djleBwTSge401Lq1yGywSDdGnlwClzkkIb7pWF5LhFBHuKWTcguR/BaOapse8tjgHSljEvD5FqxKrF27waVB4S8oY9m/QHeu116yrQgFhDV++7aDiMORXBE7kHABBKITKkA1v8uCodNn4Z03k8byxETznr8OjN05G+r5nYYSVHlQxnJnkT+nQZKcabryhZKbCk1z+avjur+GSpYFvK9LtKc3NzlXzUw6byrOIGCjIGv7jMr17HKtZlJlFGjFqy4mm47WcLp1T/Gdumz/tECy8Dimw9w83ZFUXKzRTWxBJpJgIoS9vvERZPOM96x6ghpJJSZVnkIVH9Gird1sYurtf93FLsXvB5MCOPn1R+Mgo7yuYf5JwXhv6PdFQzDyWpwK/Dm3xGGXOUTZwEGIYbpTTJBeURLZlpbf5s6BpqTX+OFBt0subNeBf5bl5krASM2iDYIlCIAIghOVtZzCYYxsh0QgF9ecd9U/YfqDUZg72kKEAY7nVn27vAxSsunc4QEPnG30QpaCmUhItPaDO1jvaY33Xg9AUSWkkI17Xtf7n87GIyMm/b9Ijgfbwj5a/RBD68z8zhaWNb+UlhC9D3UAp5BEGmJ3VuSFxQOZFVO7mL8hUzdHDJybMo7tq+IJG+aJ0UdmLLuDF7remjixPPTMNpUdmQcJatP9gwnULY84yzNzB7bY21D754WEr7qzWBfbWDe5+VwTGrWOWSWh6WQ7u2hnPmsrvMbvU1AOBMTON4/4aoNPV1cVDsHt2Dz6m3JGOp8O6uvuI0i6eqLLvqO/jjDQ6yQrhQIpn88VnpsF8KRVkTsF7Z968W702AV8pcQoM/hikzG4RmnF2V0ByqpXRmjP1qO/CptEiHju4h0zhDx+1mPLK+cKpRlRgujt/OIRl0R4f7QtPy6d4R7pmxIa28aIpb32QM19E4F417M2Ap8TFzqOOGp8W0ziGWy1K/GdVWtDzv18G3ErAKCz3dKgeBsbrg5DGJpp0XgoQDvuNRvv6x63Rnswl4pDMpMvHihd9xT/Co3uRe6KM+44cQj3/c7I=
+       properties :
+        width : 226
+        height : 86
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : STC_Details
+       identifier : 0x24634441d4d41c76
+       internal_properties : HgAAAB4AAADEj9Rq4mCZ0bYw1VelrQ9ggIHhk4wue7LsJvpKKN8CVYdm8duhU98TL5INbOHPd4OUsbmPnjweVm6ZxDoRjxYxHPJjSQ2VnG/zdbXRttDKMxi5GH9Fq1X9CnYT/NdLric/Ki1hp94U5ZMcXTAs1bYtUBeh9ZNLGa+lVtSQTImy/feyIvWtptgEJG8595ao6QA27ClYpCvPPP3O5Pn6bTigaMyvAS4pmG6AgCzqVIyC24wPC6sQaZTUPvpfeoZvtxpb1xD/v8ksCTUD2lMHJkeZhU3MmgJIEBmkLpcRWZpMmVlte9W1JVsxsScsluPlahO4KmDXz9nk/B/NlMmkRN3u1YverF6C5HVWKaOwXAQJfSWt3dDor59dhiucFGPYB7HnyGBT9PIt9st0A2t+F5AsPM6dbCaz63FP5uA3j6w5TcqGdVEyi8GYUV4wvmIihAbFezqaSdP0pZSgTamezQA5jY+bkCXwpuNnPjYn8Hr4LNvqUnCwBf7H4NyvmcAhOYZLsPTSXT6tXcuYjBcYCs60znlCMy8OfyZ8ICoGUN3f2F/Mz7c5QrdE/M+WgAy7XCWPyxa252cylv9wwfjzHUcW6oGIsO+hpawJo7mT9CwZ9iB9ee1+1lksnPdo1N6zdJiQczBZtT8DoJ/DtOITm/Aom80AyGY2Ls/16JSYJBUJA2Twqzbkz4zyj2asDl4Vym1KYYqgDRLL87RCpY5kV9g2Im8+rw/+TTyVMsuK75zURsuar3WjnObB74prOU7TVfrpl1p8/zisurZKv3QhwmH+T0YAkdxfu6isKENqGqMEO36huc4XcmNiRr50EQHKMRBa/LlkFIjXWvrHdHgdohuNvRRhbDjWXifo7u5pFYQ/sxbpz6SmMBskccq2Jg5nXk0+2wCKjDyEVbq5Y0Dua/c4OVPKuQhe0qaPOX9EyLMgDBQBM3N77NYhqstA9DdQ
+       properties :
+        x : 9
+        y : 57
+        width : 209
+        height : 21
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : STC_APTTitle
+       identifier : 0x24634441d4d51c76
+       internal_properties : HgAAAB4AAACnXbwN3lercw7a3eLaXIxqeQ/0F/Ba0/JK6HlHEWvUP935t/022Woc7816EGckrV9HIhlKaHju+9ZLxeuOqZI4aBg487fRy32Pj4o6dCJDNWkElqUcOEJYhSqcvAtGbdxa4V8HkVDL/HBk1qyclR+7nNxTquslBR1qbAtde6lZRjn+U4kCTSkS5RnmtvtndEWTL3vrnBYV+s4ppq2H5Rfr9ejQvonZm9vPvIjEV1LGXdu4IeoKaPVSUfTq6FIU1BPWKor3ooSwSxt+j3tEbbrOGTH015LtsNoiCe5J6dk+oLUVMTP0sHxFkm0hYM42bgTohfolp7oTxtmPQmsiiLyNJAUA1YlfeBBcinJh+Y7uzDUvssPRErY5LejzN008FGitRoLYI8Pdnbj60delKKj2OW8K460ASvFd9tav3mX5rz6WAMOqzkQw82jvDOXboXaR37Bp1BG3YsJ0v1dXoXlvh9DlzibljOfhNUCYmPcLxD/ycyR7+poVi/3Y+n2xpS/jw+VMIXfLQ4zQFhHZ+TQN3Z+3KjXjec043azLxIl6/bvu2Ju/PTQ3Pqhdwv00Zl8GdqPETuMGAwhI+FSy+lBT22uYZeSN4WlWKqG0XC/qjgeizDAUx4V2184Ia5U6B9Cjent8vlgnbbITLKkW7RqdIt4mHSrOlROkbQn6m/FKvpexZfbGMpH0saJAOjKBW+dzQuRWbFhJEKZSeHWMSeX/VC/YW1GhLDOy1aOY31vuf2ekRd2NkhZTJ0EX6ng+ZGhmjdGEoSduqq8iJj9gLT+5lDzAPMeWfVZEwYz2zyauNhXYUe9qn+I4rGiY3dQ+MZDkv1DKHf29tluLw8ekBMBAACfOZK4KWpc0QCfkcxsGe5nVYTtNRuzg2M+e6IzvdQUj8XJWzO5XWaaAXYdPUvZuKY5WJ70Tf7RFbIa7fqbH++szN5kSAB0N1U5bMS65hKFAWsg1duilu3SS0DGmI/fZhL/eIZPa8cBOhp4=
+       properties :
+        x : 9
+        y : 13
+        width : 209
+        height : 25
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         procedure MyWindow( EventOrAPT )
+         //EventOrAPT: Appointment or Event to draw
+         
+         // => SourceToScreen
+         STC_Details							= EventOrAPT.Content
+         STC_APTTitle						= EventOrAPT.Title
+         
+         // Applies a color that allows reading the captions regardless of the background color
+         STC_Details.Color					= CalculateTextColorAccordingToBackgroundColor(EventOrAPT.backgroundColor)
+         STC_APTTitle.Color					= CalculateTextColorAccordingToBackgroundColor(EventOrAPT.backgroundColor)
+         
+         // Applies the color of the appointment directly on the internal window
+         MyInternalWindow..BackgroundColor	= EventOrAPT.backgroundColor
+         
+         // If the internal window does not allow displaying the details, it hides the control
+         if MyInternalWindow..Height <= MyInternalWindow..InitialHeight then
+         	STC_Details.Visible = False
+         end
+         
+ menu :
+  name : _Menu
+  identifier : 0x2d70d55e06930b9a
+  internal_properties : HgAAAB4AAAAzphIx6z+DidVBJRkzmvmAR+AZNWHZ/ze7Gj7rz5H9ISX9BPwhbPMKtGLHb5HxaQeXbwPH5Klv5/KlneGyCUEkYxkTwxgs9CmdFcEGCL8s1llo8CL8xG6xPJU1d3uTDkqehxswvjzRx6lADBiMam2mUG+ZW17kFl/FgzTxDhR7mcuVWr44VQK51nxrkXaAwxFKbCqH4yPE0ASJ0+dWwOBJpZBdhx8xsubcfrdQ7myI4+B/2wL6Yafhd/6pSG4TOZDOfNtF2r0wskQIi7vTDRks7+ocbZPg5lmuOJTKR2g7lPZTJnxBBepmPuWhoBiT91O1/FQmxeFbY9SPyx/rjDODz/6Kn0fTKLK89xpNW+cWhX0E/IQV91A2smwsnuQiQbi1SswkKW6fgTK2tKIY5o3VR9YDPI7OguGiDXD/95q8AwL6EHjrukhjBRO6/z2Lqvv2WwY9kvPxFESIvbRoHEmpnJ77KzaXauUbW8aV91hNF3hP35rtsF8+UmI1OePnohh+0/Dc1xlmx2+Nk0TVFyvyMgyeznGhvs8HhY7YhzYIG1WSPfvX1DmbQKH4RPAhjim1yht8i/Xzgvco/0xj3q2rxSmhpntnl56gtSOOuxjaFHx6nbsOem+oMchsfAqd1Gzy7eQrFb/ocqhBRz2UqzxC2xRdmQzfA4d+JEPT0S9zyAH2VPG023u63D2Hlrr8BTMh590eKf+cT6MxIo7L9nmlS6GsK+hdpg==
+  options : []
+ languages :
+  - fr-FR
+  - en-GB
+  - es-ES
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+  procedures :
+   -
+     name : CalculateTextColorAccordingToBackgroundColor
+     procedure_id : 1469092950284770422
+     type_code : 14
+     code : |1+
+      procedure CalculateTextColorAccordingToBackgroundColor(local nOriginalColor is int) : int
+      
+      InitialColor	is Color
+      ReturnColor		is Color
+      
+      
+      // Stores the initial color
+      InitialColor	= nOriginalColor
+      
+      // Calls the syntax with the color variables
+      ReturnColor		= CalculateTextColorAccordingToBackgroundColor(InitialColor)
+      
+      
+      // Returns the reverse color found
+      return ReturnColor.Color
+     type : 458752
+   -
+     name : CalculateTextColorAccordingToBackgroundColor
+     internal_properties : HgAAAB4AAAAKXSOjl3hcdRJzGaDlcAc6QkThBf22KfZRSSLWIvylqfGpzfCsNIQfDls5SNZJdF9cd9UXiZt5XfcJCNl0TKQH2vUtz5APyiIpbsIXM3F+lVaRy+iFEYuyfS1pqD4mylIcBVshdHY+vK58qXCbF0DFkbTg5YpG+KmcxjIQoVsEoRwa
+     procedure_id : 1469092950284770422
+     type_code : 14
+     code : |1+
+      // Summary: Returns the reverse color adapted to the requested color
+      // Syntax:
+      //CalculateTextColorAccordingToBackgroundColor ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      //
+      //	InitialColor (Color): Initial color
+      procedure CalculateTextColorAccordingToBackgroundColor(local InitialColor is Color) : Color
+      
+      nLightness	is int
+      rLuminance	is real
+      ReturnColor	is Color
+      
+      
+      // Calculate the luminance of the color passed as parameter
+      rLuminance = 1 - (0.299 * InitialColor.Red + 0.587 * InitialColor.Green + 0.114 * InitialColor.Blue)/255
+      
+      // According to the luminance, the text color must have a low or high lightness
+      if rLuminance < 0.5 then
+      	// Low luminosity
+      	nLightness = 30
+      else
+      	// High luminosity
+      	nLightness = 30
+      end
+      
+      // The returned color keeps the shade and the saturation
+      ReturnColor = HSL(ColorHue(InitialColor), ColorSaturation(InitialColor), nLightness)
+      
+      
+      // Returns the reverse color found
+      return ReturnColor
+     type : 458753
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : HgAAAB4AAADXPUOq6bQdTI/fs1mC0I6nimWl2G84EsAbne5i32IM05uoRA==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x1022baa50892444e
+  internal_properties : HgAAAB4AAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : HgAAAB4AAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : HgAAAB4AAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

@@ -1,0 +1,53 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Planning_win
+ major_version : 30
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Planning_win
+ identifier : 0x28222c0b05d365ea
+ internal_properties : HgAAAB4AAADUsOsNcJaafEE27Rxk9Pgbjc1dPodYPcTpA4Q9IfRSB2CuxLYF/8sMHSuBfmHftkKvq2U+fUVrLyF0Zs+yfkoUOxLNs6C59H3YSSb0RXMnHbZvtQ+cYpntniDE2maPP4lKz0xxNtZtfEA2yFB6snogeY2DtUS+JDOzPsDuxn7wCGOrSzljQyzVIETPEuTpp4R8HJw/1AWOfc1vdCNdlPsrDYMMKoIYKf+lxyQeGduL3Blg8ZziYx+0qrYUhrPwTYaDe7VIr4wcx1lw4cP3HNJKd3sl2vtjZvr7SvpJOeGk8yRH3i0BME8tL0UdFk+4a3LylkhAN/fy/kTKeZ00WJEriMF4hqkuZg+jz1bANq6PjoZpa+5sJhBi7Tx6oZvXpl38Y6g0vCuVvYDD4LlYxJKYGA1loBBpbFpz+uqGhbWB7Sfu+s1Wg1SKUjZHAKd1yiXfxEJpBDB5K+Iq/7lijab/IYNuFTAzpcu5a3DX1JAsaVCMjuer5rwJoWQD0g1TB0AycepErDbw9lV5t+SzxJMNTyQWFC4bUQJSzqxIjO4fPGnX9osMC4rBs20hbceK2o5gPadCGb0Y6u0ZV7DrzNrMzxg+HLBYkoch/Agi1XnkoApv39eJj2klz7ShRtJu+JO06NEUb2RQYxxYKEh+Ru2ngVDAO17furQ9L54g5eJ1i/dygUU7TsMRMObrb/L5KfMHvvqrvEEH4If2Z3cBFjCBYLNP
+ properties :
+  width : 1024
+  height : 768
+  widthClient : 1022
+  heightClient : 736
+ controls : []
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : HgAAAB4AAABgnX2b44ip/0+dFkWIcZ3UJFlESy3OUB3wO5Qm7mevlCLdFjCyI3JIggvqH19+MvzHpl9/B9J9tS7hT0oozBulWlov7UR66HEvpEvUw0z5rDRS1Z7p+wdNt679Grta9dZiBX0QSlauiZBtVH4BhImVfjGzfJgEI7yrxVvlYeLl50T0XcrIZxSl3b5vn/iegCKem1+ATnY7gt3YKrGh4GHDZFJS1W9LBtSrZXsi5NcyuGwhXbRv+FFskVwtnOB5ewrO+zjW5Xy2Z8nvDGliFs99N2Xxj/PQbd/Pt/ta38g=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : HgAAAB4AAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MyWindow()
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+ code_parameters :
+  internal_properties : HgAAAB4AAACoLZs0mW4lq5aP9aNErAlUOSHZ7X4ZrJFFT1JWjhhvitD/xL/r2Etbr+oKxbieVf7YoEoO7HUdc4CD59271o8AU+x7o881eemR/sfDJwMvJH35
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x18222be30045c804
+  internal_properties : HgAAAB4AAAAEBvz4BdTt90ISSptwDJCphvKgZdUR2e2WGWtmgJlonsrIZP01S5+UbwYBB2sFt7MTEw==
+custom_note :
+ internal_properties : HgAAAB4AAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : HgAAAB4AAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
