@@ -1,19 +1,27 @@
-# === WinDev Folders ===
-Backup/
-Exe/
-History/
-Templates/
-*.cpl
+# === WinDev Project GitIgnore ===
 
-# === Logs ===
-*.log
+# Ignore compiled executables and generated files
+/Exe/
+/Backup/
+/History/
+/*.log
+/*.waudit
 
-# === WinDev Project Binary Files ===
+# Ignore templates or local cache files
+/Templates/
+/*.tmp
 
-# === System Files ===
-.DS_Store
-Thumbs.db
-*.tmp
+# Ignore WinDev temporary project data (optional but safe)
+/RESERVATION_DE_SALLES_WEB/
+/*.wwo
+/*.wdf
+/*.err
+/*.lst
 
-# === WinDev WebDev Folder (if any) ===
-RESERVATION_DE_SALLES_WEB/
+# Keep essential project files!
+!/*.wdp
+!/*.wdy
+!/*.sty
+!/*.env
+!/*.wws
+!/*.WPF
